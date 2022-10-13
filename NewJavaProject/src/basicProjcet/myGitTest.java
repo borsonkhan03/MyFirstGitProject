@@ -9,6 +9,7 @@ public class myGitTest {
 		System.out.println(" this is king khan");
 		
 		System.out.println("this is my new gitProject");
+		System.out.println("I am not in the master branch");
 	}
 
 
