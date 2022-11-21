@@ -7,8 +7,8 @@ public class myGitTest {
 		System.out.println("This class created after git");
 		
 		System.out.println(" this is king khan");
-		System.out.println("We are using intellij for git github");
-		System.out.println("My name is khan");
+		
+		System.out.println("this is my new gitProject");
 	}
 
 
